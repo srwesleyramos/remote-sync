@@ -1,0 +1,12 @@
+{
+    "ftp": {
+        "host": "vps.remoteserver.com",
+        "port": 21,
+        "user": "root",
+        "password": ""
+    },
+    "path": {
+        "/srv/development/app-1.jar": "/srv/development/app-1.jar",
+        "/srv/development/app-2.jar": "/srv/development/app-2.jar"
+    }
+}

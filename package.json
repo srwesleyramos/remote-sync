@@ -1,0 +1,26 @@
+{
+  "name": "remote-sync",
+  "version": "1.0.0",
+  "description": "An automated script to synchronize local files with remote servers.",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srwesleyramos/remote-sync.git"
+  },
+  "keywords": [
+    "file-sync",
+    "ftp-sync",
+    "remote-sync"
+  ],
+  "author": "Wesley Ramos <dev.wesleygabriel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srwesleyramos/remote-sync/issues"
+  },
+  "homepage": "https://github.com/srwesleyramos/remote-sync#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "ssh2-sftp-client": "^9.1.0"
+  }
+}
